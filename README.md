@@ -2,10 +2,6 @@
 
 **`Bots dev`**, **`Sys Admin`**, **`BackEnd dev`**
 
-Hello! Меня зовут Артёмка. Я занимаюсь любимым делом, а вы? Нет..? Тогда прямо сейчас бери карандаши - рисуй! Тебе нравиться писать стихи - хватайся за ручку с глянцевыми, черными чернилами и сочиняй!
-
-Занимайся любимым делом, развивайся и веселись. У тебя все получится, я в тебя верю!
-
 ---
 
 ### 🧰 Languages and Tools
@@ -17,7 +13,6 @@ Hello! Меня зовут Артёмка. Я занимаюсь любимым 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <br />
@@ -27,8 +22,8 @@ Hello! Меня зовут Артёмка. Я занимаюсь любимым 
 ### 📽️ Projects
 
 - [Mithic Vanilla](https://discord.gg/xxFq6WabzK)
-- [Vanilla Planet](https://discord.gg/Q5yVwhhe95)
-- [Astrix (MoonNodes)](https://discord.gg/KruuhTbKmB)
+- [SMP Planet](https://discord.gg/Q5yVwhhe95)
+- [Astrix](https://discord.gg/KruuhTbKmB)
 - [Octant](https://discord.gg/octant-tool)
 - [K-Protect](https://discord.gg/k-protect-community-public-925337010779078676)
 
