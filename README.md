@@ -27,5 +27,11 @@
 - [Octant](https://discord.gg/octant-tool)
 - [K-Protect](https://discord.gg/k-protect-community-public-925337010779078676)
 
+---
+
+### 🧑‍💻 Stats
+
+![face-hh](https://github-readme-stats.vercel.app/api?username=art3m4ik3&show_icons=true&theme=tokyonight&hide=["issues"]) ![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=art3m4ik3&show_icons=true&theme=tokyonight&layout=compact)
+
 <br />
 <img alt="banner" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/07/Minecraft-how-to-tame-cats.jpg">
