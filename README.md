@@ -21,6 +21,7 @@
 
 ### 📽️ Projects
 
+- [CristalBeta](https://cristalbeta.online/)
 - [Mithic Vanilla](https://discord.gg/xxFq6WabzK)
 - [SMP Planet](https://discord.gg/Q5yVwhhe95)
 - [Astrix](https://discord.gg/KruuhTbKmB)
