@@ -22,8 +22,9 @@
 
 ### 📽️ Projects
 
-- [Octant](https://discord.gg/octant-hosting) (200+)
-- [Zalupa](https://discord.gg/zalupa) (50+)
+- [Sunder](https://sunder.su) [Github](https://github.com/Sunder-Hosting)
+- [Octant](https://octant.pro)
+- [Zalupa](https://zlp-project.fun) [Github](https://github.com/zlp-project)
 - [SMP Planet](https://discord.gg/K232dB3RKC) (500+)
 - [K-Protect](https://discord.gg/k-protect-community-public-925337010779078676) (2000+)
 - [Maze](https://discord.gg/maze-860903218559844352) (7k+)
