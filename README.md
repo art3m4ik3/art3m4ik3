@@ -40,6 +40,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=art3m4ik3&show_icons=true&theme=tokyonight&layout=compact" alt="face-hh" />
 </a>
 <br clear="left"/>
+<div align="center">
+  <p>Number of profile views:<br><img src="https://profile-counter.glitch.me/art3m4ik3/count.svg"></p>
+</div>
 
 <br />
 <img alt="banner" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/07/Minecraft-how-to-tame-cats.jpg">
