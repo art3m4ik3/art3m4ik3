@@ -20,15 +20,6 @@
 
 ---
 
-### 📽️ Projects
-
-- [Zalupa](https://zlp-project.fun) - [Github](https://github.com/zlp-project)
-- [SMP Planet](https://discord.gg/K232dB3RKC) (500+)
-- [K-Protect](https://discord.gg/k-protect-community-public-925337010779078676) (2000+)
-- [Maze](https://discord.gg/maze-860903218559844352) (7k+)
-
----
-
 ### 🧑‍💻 Stats
 
 <a href="https://github.com/art3m4ik3">
@@ -38,9 +29,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=art3m4ik3&show_icons=true&theme=tokyonight&layout=compact" alt="face-hh" />
 </a>
 <br clear="left"/>
-<div align="center">
-  <p>Number of profile views:<br><img src="https://profile-counter.glitch.me/art3m4ik3/count.svg"></p>
-</div>
 
 <br />
 <img alt="banner" src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/07/Minecraft-how-to-tame-cats.jpg">
